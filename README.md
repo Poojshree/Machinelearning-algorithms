@@ -1,7 +1,7 @@
 # Machinelearning-algorithms
 
-###1] Simple linear regression
+### 1] Simple linear regression
 
-###2] Support Vector Machine
+### 2] Support Vector Machine
 
  
